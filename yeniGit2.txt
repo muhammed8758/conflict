@@ -7,5 +7,5 @@ dogan branch kontrol 3
 ======
 gitHub yeni eklemeler yapiliyor deneme 1
 gitHub yeni eklemeler yapiliyor deneme 2
-
+master branch yeni ekleme
 
