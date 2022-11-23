@@ -10,4 +10,5 @@ gitHub yeni eklemeler yapiliyor deneme 2
 gitHub yeni eklemeler yapiliyor deneme hata vermesi lazim 
 =======
 master branch yeni ekleme
+master branch yeni ekleme2 dikkat
 
