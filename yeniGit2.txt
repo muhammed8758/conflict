@@ -10,4 +10,5 @@ gitHub yeni eklemeler yapiliyor deneme 2
 gitHub yeni eklemeler yapiliyor deneme hata vermesi lazim 
 =======
 master branch yeni ekleme
+dogan branch ekleme cakismasi olacak 
 
