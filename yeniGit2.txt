@@ -7,5 +7,7 @@ dogan branch kontrol 3
 ======
 gitHub yeni eklemeler yapiliyor deneme 1
 gitHub yeni eklemeler yapiliyor deneme 2
-
 gitHub yeni eklemeler yapiliyor deneme hata vermesi lazim 
+=======
+master branch yeni ekleme
+
